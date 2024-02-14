@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header"/>
 <br>
-<div align="center"><img src="https://github.com/theresurrectedodyssey/Hackbook/blob/main/img/tro_logo.jpg" height="400" width="400"></div>
+<div align="center"><img src="https://github.com/revoltzero/Revoltzero/blob/main/Revolt_Zero-02.png" height="400" width="400"></div>
   
 <h1 align="center">
     The Revolt Zero
